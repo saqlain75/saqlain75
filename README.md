@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saqlain75
 - 👀 I’m interested in web development and app development 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me shigri126@gmail.com
 
